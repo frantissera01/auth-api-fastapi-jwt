@@ -125,3 +125,37 @@ This project simulates a real-world authentication service with protected routes
 ## Author
 
 Developed by Franco Tissera as part of a backend portfolio focused on practical APIs and real-world business logic.
+
+
+## 🔐 Features
+
+- User registration
+- Login with JWT authentication
+- Password hashing
+- Protected routes
+- Role-based access (admin/user)
+
+## 🧪 Testing
+
+Run tests with:
+
+```bash
+pytest
+
+
+---
+
+# 🔥 EXTRA (te diferencia)
+
+Agregá también:
+
+```md
+## 🚀 API Documentation
+
+Available at:
+
+http://127.0.0.1:8000/docs
+
+## 📌 Author
+
+Developed by Franco Tissera as part of a backend portfolio project.
